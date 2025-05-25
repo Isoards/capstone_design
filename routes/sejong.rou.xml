@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<routes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/routes_file.xsd">
+    <flow id="flow0" begin="0" departLane="random" fromTaz="taz_7" toTaz="taz_5" end="300" number="50"/>
+    <flow id="flow1" begin="0" departLane="random" fromTaz="taz_10" toTaz="taz_4" end="300" number="50"/>
+    <flow id="flow2" begin="0" departLane="random" fromTaz="taz_5" toTaz="taz_9" end="300" number="30"/>
+    <flow id="flow3" begin="0" departLane="random" fromTaz="taz_3" toTaz="taz_1" end="300" number="100"/>
+    <flow id="flow4" begin="0" departLane="random" fromTaz="taz_1" toTaz="taz_2" end="300" number="100"/>
+    <flow id="flow5" begin="0" departLane="random" fromTaz="taz_4" toTaz="taz_9" end="300" number="100"/>
+    <!-- <flow id="flow6" begin="0" departLane="random" fromTaz="taz_1" toTaz="taz_0" end="300" number="1"/> -->
+    <flow id="flow7" begin="0" departLane="random" fromTaz="taz_8" toTaz="taz_6" end="300" number="100"/>
+    <flow id="flow8" begin="0" departLane="random" fromTaz="taz_6" toTaz="taz_3" end="300" number="100"/>
+    <flow id="flow9" begin="0" departLane="random" fromTaz="taz_10" toTaz="taz_1" end="300" number="100"/>
+</routes>
