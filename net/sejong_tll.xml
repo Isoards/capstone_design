@@ -1,5 +1,0 @@
-    <tlLogic id="10968712778" type="static" programID="0" offset="0">
-        <phase duration="80" state="GG"/>
-        <phase duration="5"  state="yy"/>
-        <phase duration="5"  state="rr"/>
-    </tlLogic>
